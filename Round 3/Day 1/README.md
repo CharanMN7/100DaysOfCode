@@ -1,5 +1,7 @@
 # Day 1 🚀
 
+> *April 24, 2024*
+
 Here's what I did today:
 
 - Setup this entire 100DaysOfCode repo.
