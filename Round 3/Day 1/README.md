@@ -9,3 +9,4 @@ Here's what I did today:
 - Continued planning a few CRUD operations my secret project
 - Converted my secret project into a monorepo that will hold all the frontend code and backend in seperate folders.
 - Initialized the backend for the same.
+- Learnt how to visualize data through different plots using matplotlib.pyplot in python.
