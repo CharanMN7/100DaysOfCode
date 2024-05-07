@@ -10,3 +10,4 @@ Here are the links to every single day (I add them after every day):
 - [Day 4 🏅](./Day%204/)
 - [Day 5 🌃](./Day%205/)
 - [Day 6 🥋](./Day%206/)
+- [Day 7 🥷](./Day%207/)
