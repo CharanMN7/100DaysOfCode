@@ -3,4 +3,4 @@
 > *May 4, 2024*
 
 - Re wrote the whole recipe page from scratch.
-- Gave feedback to another person's solution for the recipe page.
+- I need to shift gears and put in more effort...
