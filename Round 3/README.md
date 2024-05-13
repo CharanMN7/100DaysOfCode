@@ -19,3 +19,4 @@ Here are the links to every single day (I add them after every day):
 - [Day 13 🚒](./Day%2013/)
 - [Day 14 🏎️](./Day%2014/)
 - [Day 15 ♟️](./Day%2015/)
+- [Day 16 💥](./Day%2016/)
