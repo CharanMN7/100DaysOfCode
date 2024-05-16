@@ -1,5 +1,7 @@
 # Day 18 💻
 
+> *May 15, 2024*
+
 - First day as an intern!
 - Brainstormed and discussed a lot of things that I'll be working on soon! (Part of the reason why I'm learning Go)
 
